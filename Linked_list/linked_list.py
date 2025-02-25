@@ -69,7 +69,7 @@ class ListaEncadeada:
             atual = atual.prox
         print("NULL")
 
-# Teste das funções
+# Teste dos métodos 
 lista = ListaEncadeada()
 print ("A lista está vazia",lista.esta_vazia())
 lista.inserir_elemento(1, 10)
